@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/makeup_pro/static/css/main.1a1fab1a.css",
+    "main.js": "/makeup_pro/static/js/main.6970cfa6.js",
+    "static/media/oops.png": "/makeup_pro/static/media/oops.0339134467ddeee93b7e.png",
+    "index.html": "/makeup_pro/index.html",
+    "main.1a1fab1a.css.map": "/makeup_pro/static/css/main.1a1fab1a.css.map",
+    "main.6970cfa6.js.map": "/makeup_pro/static/js/main.6970cfa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1fab1a.css",
+    "static/js/main.6970cfa6.js"
+  ]
+}
